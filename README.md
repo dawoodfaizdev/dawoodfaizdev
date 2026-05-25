@@ -1,3 +1,5 @@
+![Dawood Faiz — Senior Laravel + Node Developer · Custom Backends &amp; CRM Integrations](./assets/banner-github.png)
+
 # Hi, I'm Dawood Faiz 👋
 
 **Senior Laravel + Node Developer** · Custom Backends &amp; CRM Integrations
