@@ -63,11 +63,24 @@ Payments    Stripe · subscription billing · webhook architecture
 
 > _"Your next web project deserves more than a developer. It deserves an owner."_
 
+---
 
-  Profile-stats cards — uncomment after creating the dawoodfaizdev/dawoodfaizdev repo
-  so they render on your public profile page.
+<!-- Tech badges — static shields.io, never rate-limited or broken -->
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=dawoodfaizdev&show_icons=true&theme=transparent&hide_border=true&title_color=f0b755&icon_color=f0b755&text_color=e8e3d6" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodfaizdev&layout=compact&theme=transparent&hide_border=true&title_color=f0b755&text_color=e8e3d6" />
-  </p>
+<!--
+  NOTE: the github-readme-stats.vercel.app cards are intentionally NOT used here.
+  The public instance is heavily rate-limited and frequently renders as broken
+  images. If you really want live stats, self-host github-readme-stats on your
+  own Vercel account (free) and point the URLs at your deployment — then it's
+  reliable. The static badges above never break.
+-->
