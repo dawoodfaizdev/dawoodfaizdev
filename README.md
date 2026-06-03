@@ -14,6 +14,7 @@ I'm a senior backend engineer specializing in custom REST API integrations, CRM 
 
 - **Custom backends & REST APIs** — Laravel, Node.js, Express, PHP
 - **CRM integrations end-to-end** — GoHighLevel, Zenoti, MindBody, Boulevard, PatientNow, Konnektive, Checkout Champ, ActiveCampaign, Shopify, WooCommerce + more
+- **GoHighLevel API v1 → v2 migrations** — rebuilding integrations on the new v2 API before v1 fully sunsets
 - **AI integration into existing products** — OpenAI, Claude API, n8n, Make.com, Zapier
 - **Real-time analytics dashboards** — including Meta Marketing API
 - **Performance audits & code rescue** — recent job cut load times by 60%+
@@ -62,7 +63,7 @@ Payments    Stripe · subscription billing · webhook architecture
 
 > _"Your next web project deserves more than a developer. It deserves an owner."_
 
-<!--
+
   Profile-stats cards — uncomment after creating the dawoodfaizdev/dawoodfaizdev repo
   so they render on your public profile page.
 
@@ -70,4 +71,3 @@ Payments    Stripe · subscription billing · webhook architecture
     <img src="https://github-readme-stats.vercel.app/api?username=dawoodfaizdev&show_icons=true&theme=transparent&hide_border=true&title_color=f0b755&icon_color=f0b755&text_color=e8e3d6" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodfaizdev&layout=compact&theme=transparent&hide_border=true&title_color=f0b755&text_color=e8e3d6" />
   </p>
--->
