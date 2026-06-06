@@ -18,7 +18,7 @@ I'm a senior backend engineer specializing in custom REST API integrations, CRM 
 - **AI integration into existing products** — OpenAI, Claude API, n8n, Make.com, Zapier
 - **Real-time analytics dashboards** — including Meta Marketing API
 - **Performance audits & code rescue** — recent job cut load times by 60%+
-- **Full-stack web apps** when the project needs one person who owns it all
+- **GoHighLevel API v1 → v2 migrations** and full-stack web apps when you need one owner
 
 ### Recent proof
 
@@ -47,7 +47,7 @@ Payments    Stripe · subscription billing · webhook architecture
 
 ### Open to
 
-- Long-term **retainers** with international teams ($30–35/hr or $4K+/mo)
+- Long-term **retainers** with international teams ($40/hr or $4K+/mo)
 - **Remote roles** where backend ownership matters
 - **Rescue work** on messy Laravel / Node / PHP codebases
 
